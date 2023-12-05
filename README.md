@@ -1,1 +1,1 @@
-# loan_predication
+# loan_eligibility_predication
